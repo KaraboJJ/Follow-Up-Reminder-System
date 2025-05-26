@@ -28,8 +28,8 @@ Twilio account (for sending SMS)
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/follow-reminder-system.git
-cd Follow-up-reminder-system
+git clone https://github.com/KaraboJJ/Follow-Up-Reminder-System.git
+cd Follow-Up-Reminder-System
 
 2. Install Dependencies
 
